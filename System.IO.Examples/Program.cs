@@ -8,8 +8,11 @@ namespace System.IO.Examples
         {
             #region MemoryStreamExamples
             //MemoryStreamExamples.Run1();
-            MemoryStreamExamples.Run2();
+            //MemoryStreamExamples.Run2();
             #endregion
+            #region BufferedStreamExamples
+            BufferedStreamExamples.Run1();
+            #endregion 
         }
     }
 }
