@@ -11,8 +11,12 @@ namespace System.IO.Examples
             //MemoryStreamExamples.Run2();
             #endregion
             #region BufferedStreamExamples
-            BufferedStreamExamples.Run1();
-            #endregion 
+            //BufferedStreamExamples.Run1();
+            #endregion
+            #region FileStreamExamples
+            FileStreamExamples.Run1();
+            //FileStreamExamples.Run2();
+            #endregion
         }
     }
 }
