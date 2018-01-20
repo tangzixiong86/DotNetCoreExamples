@@ -21,7 +21,15 @@ namespace System.IO.Examples
             //StringWriterExamples.Run1();
             #endregion
             #region StringReaderExamples
-            StringReaderExamples.Run1();
+            //StringReaderExamples.Run1();
+            #endregion
+            #region StreamWriterExamples
+            //StreamWriterExamples.Run1();
+            //StreamWriterExamples.Run2();
+            //StreamWriterExamples.Run3();
+            #endregion
+            #region StreamReaderExamples
+            StreamReaderExamples.Run1();
             #endregion
         }
     }
